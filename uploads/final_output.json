@@ -1,0 +1,20 @@
+{
+  "license_number": "CN-2883802",
+  "company_name": "TIGER FIRE FOR SECURITY SYSTEM",
+  "establishment_date": "14-10-2019",
+  "expiry_date": "25-12-2024",
+  "manager_name": "NAJLA ANTAR ABDULLA ALJABERI",
+  "owners": [
+    {
+      "name": "NAJLA ANTAR ABDULLA ALJABERI",
+      "share_percentage": "100%"
+    }
+  ],
+  "validation": {
+    "is_valid": true,
+    "warnings": [
+      "License expired on 25-12-2024"
+    ],
+    "errors": []
+  }
+}

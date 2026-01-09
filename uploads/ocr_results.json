@@ -1,0 +1,46 @@
+{
+  "EXPIRY_DATE": {
+    "text": "13/01/2024",
+    "detection_confidence": 0.708,
+    "ocr_confidence": 0.999,
+    "bbox": {
+      "x1": 585,
+      "y1": 616,
+      "x2": 747,
+      "y2": 655
+    }
+  },
+  "COMPANY_NAME": {
+    "text": "AL RAKHA CONTRACTING & GENERAL TRANSPORT LLC",
+    "detection_confidence": 0.623,
+    "ocr_confidence": 0.787,
+    "bbox": {
+      "x1": 268,
+      "y1": 505,
+      "x2": 841,
+      "y2": 550
+    }
+  },
+  "ESTABLISHMENT_DATE": {
+    "text": "28/09/1999",
+    "detection_confidence": 0.614,
+    "ocr_confidence": 0.989,
+    "bbox": {
+      "x1": 581,
+      "y1": 547,
+      "x2": 742,
+      "y2": 582
+    }
+  },
+  "LICENSE_NUMBER": {
+    "text": "CN-1016914",
+    "detection_confidence": 0.57,
+    "ocr_confidence": 0.801,
+    "bbox": {
+      "x1": 574,
+      "y1": 273,
+      "x2": 773,
+      "y2": 308
+    }
+  }
+}

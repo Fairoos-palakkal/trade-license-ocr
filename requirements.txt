@@ -1,0 +1,51 @@
+# FastAPI - Modern web framework
+fastapi==0.104.1
+
+# Uvicorn - ASGI server to run FastAPI
+uvicorn[standard]==0.24.0
+
+# Pydantic - Data validation
+pydantic==2.5.0
+
+# ============================================================================
+# MODEL INFERENCE - For loading and running the .pt model
+# ============================================================================
+
+# PyTorch - Required for .pt models
+torch==2.1.0
+torchvision==0.16.0
+
+# Ultralytics - YOLOv8/YOLOv5 inference engine (Roboflow uses this)
+ultralytics==8.0.196
+
+# ============================================================================
+# IMAGE PROCESSING
+# ============================================================================
+
+# Pillow - Image loading and manipulation
+Pillow==10.1.0
+
+# OpenCV - Advanced image processing
+opencv-python==4.8.1.78
+
+# NumPy - Array operations
+numpy==1.24.3
+
+# ============================================================================
+# FILE HANDLING
+# ============================================================================
+
+# Python-multipart - Handle file uploads
+python-multipart==0.0.6
+
+# Python-dotenv - Environment variables
+python-dotenv==1.0.0
+# ============================================================================
+# TEXT EXTRACTION - OCR Engine
+# ============================================================================
+
+# EasyOCR - Supports Arabic + English
+easyocr==1.7.0
+
+# OpenCV - Already added, but ensure it's there
+opencv-python==4.8.1.78
